@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kai17\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kai17\\.nuget\\packages"
+    ]
+  }
+}
